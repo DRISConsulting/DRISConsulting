@@ -1,19 +1,21 @@
 $icons-family: 'dotx-icons';
 $icons-path: '../fonts/';
-$icon-home: "\e900";
-$icon-comments: "\e902";
-$icon-comment-o: "\e903";
-$icon-comments-o: "\e904";
-$icon-search: "\e906";
+$icon-home: "\e903";
+$icon-comments: "\e905";
+$icon-comment-o: "\e906";
+$icon-comments-o: "\e907";
+$icon-search: "\e908";
 $icon-share: "\e909";
-$icon-google-plus: "\e901";
-$icon-facebook: "\e90a";
-$icon-facebook-rounded: "\e90b";
-$icon-twitter: "\e90c";
-$icon-twitter-rounded: "\e90d";
-$icon-feed: "\e90e";
-$icon-github: "\e90f";
-$icon-linkedin: "\e905";
+$icon-google-plus: "\e90a";
+$icon-facebook: "\e90b";
+$icon-facebook-rounded: "\e90c";
+$icon-twitter: "\e901";
+$icon-twitter-rounded: "\e900";
+$icon-feed: "\e90d";
+$icon-github: "\e90e";
+$icon-linkedin: "\e90f";
+$icon-bitbucket: "\e902";
+$icon-email: "\e904";
 
 @font-face {
   font-family: $icons-family;
@@ -52,4 +54,6 @@ $icon-linkedin: "\e905";
 .icon-feed:before { content: $icon-feed; }
 .icon-github:before { content: $icon-github; }
 .icon-linkedin:before { content: $icon-linkedin; }
+.icon-bitbucket:before { content: $icon-bitbucket; }
+.icon-email:before { content: $icon-email; }
 

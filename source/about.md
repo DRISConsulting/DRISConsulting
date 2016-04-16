@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: It's Free!
+subtitle: Freelance developer
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Freelancer app and web developer. Building and maintaining iOS and Android apps. I also build web based server backends with or without databases to cater to a whole range of functions: REST APIs for apps, business process implementation, reporting/data analysis.
 
-You can find the source code for the Jekyll new theme at: [jekyll-new](https://github.com/jglovier/jekyll-new)
-You can find the source code for Jekyll at [jekyll](https://github.com/jekyll/jekyll)

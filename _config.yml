@@ -17,30 +17,31 @@ markdown    : kramdown
 highlighter : pygments
 
 # SEO settings
-title: dotX
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
+title: DRIS consulting
+description: "Web/app development consulting"
+keywords: "Web, app, developer, development, consulting"
 
 # Site settings
-url: http://nandomoreira.me
-baseurl: "/dotX"
-# baseurl: ""
+url: http://www.dris-consulting.nl
+baseurl: ""
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      : Dries Schulten
+  job       : Freelance software engineer
+  bio       : "Allround web oriented developer. iOS/Android apps and mostly Java/Scala based server stuff."
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : dries@dris-consulting.nl
+  url       : http://www.dris-consulting.nl
+  github    : http://github.com/DriesSchulten
+  bitbucket : https://bitbucket.org/DriesSchulten
+  linkedin  : https://www.linkedin.com/in/dries-schulten-39a49945
 
-# google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/dotX
+google_analytics: UA-76475379-1
+repo: https://bitbucket.org/DriesSchulten/dris-consulting-website
 
 # comments
-disqus_shortname: "fernandomoreira"
+disqus_shortname: "driesschulten"
+
+gems:
+  - jekyll-email-protect
