@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/driesschulten
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dris-consulting.nl
+  * I am driesschulten (https://keybase.io/driesschulten) on keybase.
+  * I have a public key with fingerprint 9719 E0C3 A7E1 8E55 106E  609E 3284 6938 D854 2D70
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010c7c6b6b6db970f78b4424e5e0dae1be28923790eb9c40803c6744c5354efc1a0a",
+            "fingerprint": "9719e0c3a7e18e55106e609e32846938d8542d70",
+            "host": "keybase.io",
+            "key_id": "32846938d8542d70",
+            "kid": "01010c7c6b6b6db970f78b4424e5e0dae1be28923790eb9c40803c6744c5354efc1a0a",
+            "uid": "abcddbaec1d889aec34a6a0177936319",
+            "username": "driesschulten"
+        },
+        "revoke": {
+            "sig_ids": [
+                "5078e1f8a995b79a77549e13b64c6f9c5d591c1eb4186dabdf00de9455ad02b20f"
+            ]
+        },
+        "service": {
+            "hostname": "dris-consulting.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487784644,
+    "expire_in": 157680000,
+    "prev": "df6b44ea4155d4efbd0da3bad843d4ff1c45cbe9fe025fcc6ea1f32ecf7e7a85",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkn9QFGUcxu8IVEBGcyBwAM2ViySg3dsf7+4pZSmTRJFkDijRse+778IOsAd3
+yy9PyoBIZ5pARhIQGFHSIExtMhhhCi1nSgfKghmgcYgKSUoQZxSNunqPqemf/mzf
+P955d5/n+X72mbc26AFTgNlapYkjL8UVmK/cgKb0U5e/cFPQoZRRNjeVixc3nKdg
+l2HP1RTKRtEMWQggAZKlQAnQKhAhx1k5zGNakTEDsVWUrCyQaAwlxNEizSIBcBzi
+WZ7DKmJkWqZiKVXTs7GzwKnpBomVACNhGrEywIyIeZ6hBSzQEmatIidIrKiIPGdV
+AE2MOQ6X10HgoOzC8ZqDvCMH+yLef+j/Z+6ixTgZIkWBMkaMIooS2VlOFmSaAUBi
+BZaRvEIXdupyPiZqxalhlwvlFOUZWKfKYyknLnbkYm+5Li2bkLsoWwbF00DEjCrK
+ksRDIMkA8JyEGRYKHBJUCfEKLzGIwZBjREGRoaLStIIljudlhbZCK61SmSSbjC3W
+0GK4t6p/EVxxyKG7CANpPl7PI4gFTofhQI488j3HMAo+sXnZjLICr6EEQ/vfUXao
+6QoxEUcxdro0h07ZGKJEhubNZjgRAFI7x8VSuLRAc2K75lXwQBBp8njn4GIvgyqQ
+xrHMMTyvkEqhQopnoayIHKtwqsogjkcQSyqmrbyKkIBlRmWtGKkAA1nkKe/PFeoO
+ykYmGXI2iST16bJR5MRUecABnwhfkznAtMTPx3uPTQH+K/+53L6vrfBEX/g6ZJnl
+SngN07f70e7BJOW+NLQDxM1/uPbnnbsaBnsb+oqS7vRXHBr/sTE4N2H1UE/wkT3y
++ELi6e3N12Y/mG8oXnoztRm86gqLaPwS/qGDSGWobWDjqD3qzGP7Et3PSzepxy3f
+Hb7QvaXlyfUJLceZa2ukdQsdpQvtlclR+0r9qkZimvf+irLk0pbnTkQ9NDoJ96fX
+5eOINS0Ihz6SlervOaJvC+g4y5UWr8wbBFTQGf8D4+/Gpy3ZvLHVIwz163v9I9IH
+ru4v2bnJvlW6s2W2vyOn66vQ5eb81pgBNzP76QbzrvCkubWKOfCieOyJzxj4ZsZU
+0Pm5qrSfZipfnDpu8fs99G2N9tR7CltfL3P0njptXTVxctjP9NSw8UrK5s5bYz2J
+5bXcO025ExMd8ydSWgC8/acl+uytwN8utbXPpC+9V5KyoeqjycxL9s6+6/XuuTHh
+5YSm3b9syrz7jePqUf+0iOaD7c0rHsy4V1gNH15dGTRi+NyPqz5WcTsZPNsb0rVQ
+4WccnDsZ6vttTnhIZFpy4GSXpSrrjdqnV5kOZw7fTTynyW81LesM9qm/DkbHDnmy
+6ofP1/zQvZ7//Oi5soHxyanp99qqL1oax+XSyznt29XooQH7tvdf8KyraV0uoZiK
+4Lrvre5ndmztmbHUf2wIeZNs2J66wfGyG5HTvamhbNj0Xw==
+=EPn1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/driesschulten
+
+==================================================================
+

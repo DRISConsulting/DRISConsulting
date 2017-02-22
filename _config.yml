@@ -10,6 +10,8 @@ sass:
   sass_dir: _sass
   style: expanded # compressed # expanded
 
+include: [".well-known"]
+
 # permalink and highlighter
 permalink   : /:year/:title/
 markdown    : kramdown
